@@ -1,0 +1,11 @@
+# Secretos (NUNCA subir)
+.streamlit/secrets.toml
+secrets.toml
+.env
+
+# Entorno / cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
